@@ -1,7 +1,7 @@
 baseURL = "https://winsider.hu"
 languageCode = "hu-hu"
 title = "WINSIDER"
-theme = ""
+theme = "ananke"
 
 [params]
 favicon = ""
