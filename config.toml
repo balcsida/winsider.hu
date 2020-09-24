@@ -1,11 +1,7 @@
 baseURL = "https://winsider.hu"
 languageCode = "hu-hu"
 title = "WINSIDER"
-theme = "github.com/theNewDynamic/gohugo-theme-ananke"
-
-[module]
-  [[module.imports]]
-  path = "github.com/theNewDynamic/gohugo-theme-ananke"
+theme = ""
 
 [params]
 favicon = ""
