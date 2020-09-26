@@ -14,15 +14,15 @@ categories:
   - Windows 10 Mobile
 
 ---
-A Lumia-k gyártásának leállítása óta sajnos nem igazán van Windows 10 Mobile rendszert futtató készülék itthon forgalomban, viszont ez hamarosan megváltozhat.<figure class="tmblr-full">
+A Lumia-k gyártásának leállítása óta sajnos nem igazán van Windows 10 Mobile rendszert futtató készülék itthon forgalomban, viszont ez hamarosan megváltozhat.
 
-<img class="aligncenter" src="https://68.media.tumblr.com/ce929ae2ee023115d102dc6e48c1c6b1/tumblr_inline_okshbz5vd91uz1ind_540.jpg" /> </figure> 
+![](https://68.media.tumblr.com/ce929ae2ee023115d102dc6e48c1c6b1/tumblr_inline_okshbz5vd91uz1ind_540.jpg)
 
 <!-- more -->A szlovák Alcatel Support-tól kérdezte egy felhasználó, hogy a tavaly az USA-ban megjelent készülékük, az Idol 4S, elérhető lesz-e az öreg kontinensen. A válaszuk pozitív volt, készülnek az európai megjelenése, 2017 második negyedévében várható.
 
-Közben a görög Alcatel a Facebook oldalukon egy kedvcsináló képet tettek közzé, ami alatt azt kommentelték, hogy “Stay tuned”, azaz maradjon velünk.<figure class="tmblr-full">
+Közben a görög Alcatel a Facebook oldalukon egy kedvcsináló képet tettek közzé, ami alatt azt kommentelték, hogy “Stay tuned”, azaz maradjon velünk.
 
-<img class="aligncenter" src="https://68.media.tumblr.com/8cadbdb4829bf68f885faf77e2029106/tumblr_inline_oksh7vvHJG1uz1ind_540.jpg" /> </figure> 
+![](https://68.media.tumblr.com/8cadbdb4829bf68f885faf77e2029106/tumblr_inline_oksh7vvHJG1uz1ind_540.jpg)
 
 Minden földi jóval felszerelték, valamint a VR-t is támogatja. A telefon teljes specifikációját itt találjátok: [GSM Arena][1]
 

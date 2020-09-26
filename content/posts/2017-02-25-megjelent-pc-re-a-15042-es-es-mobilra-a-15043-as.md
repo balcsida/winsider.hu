@@ -26,8 +26,6 @@ A build PC-re úgy jött ki, hogy 32-bit-es rendszereken nem lehet frissíteni, 
 
 <!--more-->
 
-<!-- more -->
-
 ## Újdonságok (PC)
 
   * **Új Cortana animáció az első indításkori beállítások során**

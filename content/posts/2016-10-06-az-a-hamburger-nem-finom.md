@@ -16,7 +16,7 @@ tags:
   - windows
 
 ---
-<figure class="tmblr-full">![image][1]</figure> 
+![image][1]
 
 Úgy néz ki, a Microsoft kezd észbe kapni, hogy azt a hamburgermenüt mégsem kellene annyira erőltetni és visszatér a gyökerekhez. Legalábbis ez látszódik az Insidereknek érkezett Photos alkalmazás frissítésében, ami kapott egy kis ráncfelvarrást. Az albumok nézete jobb lett, okosabba helykihasználás és a félkövér betűk elhagyása miatt még kevésbé tűnik Storyteller beütésűnek a gyermek.
 

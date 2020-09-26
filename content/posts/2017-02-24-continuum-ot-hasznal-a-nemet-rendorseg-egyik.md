@@ -20,16 +20,10 @@ tags:
   - windows 10 mobile
 
 ---
-<p style="text-align: left;">
-  Egy vállalati UWP app készítő, az Icomedias nevű cég bemutatta a saját HybridForms megoldását (egy rendőrségi információs rendszer), hogy segítse a német rendőrséget digitális (azaz papírmentes) ügyintézésre átállni. Ezt Surface gépekkel és HP Elite X3 mobiltelefonokkal használatával szeretnék elérni. Balesetek alkalmával képesek rögzíteni a káreseteket fényképen, a helyszínről rajzot készíteni, illetve a két fél aláírását is rögzíthetik, majd beülve az autóba, a műszerfalba beépített nagyobb kijelzőn Continuumot használva vezeték nélküli billentyűzettel részletesebb adatokat be tudják vinni. A tovább után videón megtekinthető a prototípus működése.
-</p>
 
-<p style="text-align: left;">
-  <!--more-->
-</p>
+Egy vállalati UWP app készítő, az Icomedias nevű cég bemutatta a saját HybridForms megoldását (egy rendőrségi információs rendszer), hogy segítse a német rendőrséget digitális (azaz papírmentes) ügyintézésre átállni. Ezt Surface gépekkel és HP Elite X3 mobiltelefonokkal használatával szeretnék elérni. Balesetek alkalmával képesek rögzíteni a káreseteket fényképen, a helyszínről rajzot készíteni, illetve a két fél aláírását is rögzíthetik, majd beülve az autóba, a műszerfalba beépített nagyobb kijelzőn Continuumot használva vezeték nélküli billentyűzettel részletesebb adatokat be tudják vinni. A tovább után videón megtekinthető a prototípus működése.
 
-<p style="text-align: center;">
-</p>
+<!--more-->
 
 Ez egy jó példa a jövőbeli felhasználásnak. Reméljük az ilyen irányú fejlesztések ökést adnak, hogy más partnerek is Windows 10 Mobile (vagy a későbbiekben Windows 10 on ARM) rendszerű mobiltelefonokat gyártsanak.
 

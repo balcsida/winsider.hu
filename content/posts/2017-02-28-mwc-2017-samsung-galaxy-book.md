@@ -18,9 +18,7 @@ tags:
 ---
 A Samsung a barcelonai Mobile World Congress során bemutatta a második generációs Windows 10-et futtató tableteit. Két eszközt foglal magába az új sorozat, mégpedig a Galaxy Book 10-et és a Galaxy Book 12-őt.
 
-&nbsp;
-
-<img loading="lazy" class="aligncenter wp-image-128 size-large" src="https://winsider.hu/wp-content/uploads/2017/02/img_5927-1024x683.jpg" width="1024" height="683" srcset="https://winsider.hu/wp-content/uploads/2017/02/img_5927-1024x683.jpg 1024w, https://winsider.hu/wp-content/uploads/2017/02/img_5927-300x200.jpg 300w, https://winsider.hu/wp-content/uploads/2017/02/img_5927-768x512.jpg 768w, https://winsider.hu/wp-content/uploads/2017/02/img_5927.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
+![](/wp-content/uploads/2017/02/img_5927-1024x683.jpg)
 
 <!--more-->
 
@@ -28,7 +26,7 @@ A Galaxy Book 10 10,6 col-os FullHD (1920&#215;1280) IPS, míg a nagyobb testvé
 
 Bónuszként LTE támogatással és S-Pen aktív tollal érkeznek, így a mobilinternetről valamint a Windows Ink-ről sem kell lemondani. A Galaxy Note készülékekről ismert Air Command funkciót is megkapták, valamint a Samsung saját jegyzetelő alkalmazásáról, az S Note-ről sem kell lemondani. A tollat nem kell tölteni, valamint döntve (mint a satírozó ceruza) is lehet használni bizonyos alkalmazásokban. Emellett egy billentyűzetes dokkoló is tartozék, ami fizikailag csatlakozik magához a tablet részhez, így nem kell tölteni sem párosítani. Ez mint védőtok is funkcionál.
 
-<img loading="lazy" class="aligncenter wp-image-129 size-large" src="https://winsider.hu/wp-content/uploads/2017/02/samsung-galaxy-book-official-render-1-1024x724.jpg" width="1024" height="724" srcset="https://winsider.hu/wp-content/uploads/2017/02/samsung-galaxy-book-official-render-1-1024x724.jpg 1024w, https://winsider.hu/wp-content/uploads/2017/02/samsung-galaxy-book-official-render-1-300x212.jpg 300w, https://winsider.hu/wp-content/uploads/2017/02/samsung-galaxy-book-official-render-1-768x543.jpg 768w, https://winsider.hu/wp-content/uploads/2017/02/samsung-galaxy-book-official-render-1.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
+![](/wp-content/uploads/2017/02/samsung-galaxy-book-official-render-1-1024x724.jpg)
 
 Ezzel együtt bemutatkozott a Samsung Flow szolgáltatás továbbfejlesztése. Ezzel a Windows 10-es eszközödet és a Galaxy mobiltelefonodat tarthatod szinkronban, valamit a telefon ujjlenyomat olvasóját lehet Windows Hello bejelentkezésre használni. (Pletyka szinten kezelve, az áprilisi Alkotói Frissítéssel elvileg bármilyen Windows 10-es számítógéppel használható lesz ez a szolgáltatás.)
 

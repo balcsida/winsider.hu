@@ -18,6 +18,6 @@ tags:
   - Windows 10
 
 ---
-A ma éjszaka folyamán megérkezett a szokásos havi frissítések előzetese. Mint minden hasonló, ez is apróbb hibajavításokat tartalmaz és mind PC-re, mind mobilra elérhető. Beszerezni a Windows Update szolgáltatáson keresztül lehet.<figure class="tmblr-full">
+A ma éjszaka folyamán megérkezett a szokásos havi frissítések előzetese. Mint minden hasonló, ez is apróbb hibajavításokat tartalmaz és mind PC-re, mind mobilra elérhető. Beszerezni a Windows Update szolgáltatáson keresztül lehet.
 
-<img class="aligncenter" src="https://68.media.tumblr.com/e96eb595bf509077a2ef7921bf6c0e39/tumblr_inline_okcb5gXEiu1uz1ind_540.png" alt="image" /> </figure> <figure class="tmblr-full"><img class="aligncenter" src="https://68.media.tumblr.com/8440094f9825009e3c44a9d2bc0e8a0e/tumblr_inline_okcb5sk95A1uz1ind_540.png" alt="image" /></figure>
+![image](https://68.media.tumblr.com/e96eb595bf509077a2ef7921bf6c0e39/tumblr_inline_okcb5gXEiu1uz1ind_540.png) ![image](https://68.media.tumblr.com/8440094f9825009e3c44a9d2bc0e8a0e/tumblr_inline_okcb5sk95A1uz1ind_540.png)

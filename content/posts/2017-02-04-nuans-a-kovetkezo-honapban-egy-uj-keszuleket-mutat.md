@@ -17,9 +17,9 @@ tags:
   - windows 10 mobile
 
 ---
-A japán Nuans nevű cég a nagy valószínűség szerint február hónap 20. napján egy új készüléket fog bemutatni. A honlapjukon az alant látható kedvcsinálót tették közzé. Ez a korábbi modelljük a Neo folytatása lehet, ami sajnos csak Japánban érhető el hivatalosan. Bár voltak nemzetközi terjeszkedéshez próbálkozások (közösségi finanszírozás), sajnos nem jöttek össze. Remélhetőleg az új telefonjuk viszont nem csak a szamurájok hazájában lesz elérhető. Természetesen amint újabb információhoz jutunk az oldalon be fogunk számolni róla.<figure class="tmblr-full">
+A japán Nuans nevű cég a nagy valószínűség szerint február hónap 20. napján egy új készüléket fog bemutatni. A honlapjukon az alant látható kedvcsinálót tették közzé. Ez a korábbi modelljük a Neo folytatása lehet, ami sajnos csak Japánban érhető el hivatalosan. Bár voltak nemzetközi terjeszkedéshez próbálkozások (közösségi finanszírozás), sajnos nem jöttek össze. Remélhetőleg az új telefonjuk viszont nem csak a szamurájok hazájában lesz elérhető. Természetesen amint újabb információhoz jutunk az oldalon be fogunk számolni róla.
 
-<img loading="lazy" class="aligncenter wp-image-160 size-large" src="https://winsider.hu/wp-content/uploads/2017/02/nuans-1024x611.jpg" width="1024" height="611" srcset="https://winsider.hu/wp-content/uploads/2017/02/nuans-1024x611.jpg 1024w, https://winsider.hu/wp-content/uploads/2017/02/nuans-300x179.jpg 300w, https://winsider.hu/wp-content/uploads/2017/02/nuans-768x459.jpg 768w, https://winsider.hu/wp-content/uploads/2017/02/nuans.jpg 1030w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+![](/wp-content/uploads/2017/02/nuans-1024x611.jpg)
 
 Forrás: [MSPoweruser][1]
 

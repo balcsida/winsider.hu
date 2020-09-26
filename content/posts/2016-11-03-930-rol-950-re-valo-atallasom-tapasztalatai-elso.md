@@ -22,7 +22,7 @@ tags:
   - windows phone
 
 ---
-<figure class="tmblr-full">![image][1]</figure> 
+![image][1]
 
 A [Windows Mobile Közösség][2] tagjai már láthatták, hogy végre én is beadtam a derekamat (és a pénzemet), hogy egy valódi, Windows 10 Mobile-os készülékkel tudjak együtt élni a mindennapokban. Választásom egy 950-re esett, több okból is:
 
@@ -37,9 +37,9 @@ Hazaérkezvén (6 óra körül járunk) egyből csattant fel a Wi-Fi-re, és miv
 A szokásos fogaskerekezés után szépen végignyomkodtam a kezdő beállításokat (azaz [OOBE][5], hogy ma is tanuljunk valamit), volt újraindulás a nyelvváltás miatt, kis probléma a fiókommal (generált, 100 karakteres jelszavam van 😀 ). Fontos megjegyezni, hogy itt még nem raktam bele a SIM kártyámat.  
 Itt jött az első izgalom, a biztonsági mentés visszaállítása. A csoportban többször olvastam, hogy mennyi probléma volt ezzel és nálam nehezítve is volt, mert a 930-on újabb build futott, mint a 950-en. Így hát remegő kezekkel választottam ki a percekkel ezelőtt készített mentésemet és vártam. Vártam, hogy kiírja, hogy
 
-„néhány elemet nem sikerült visszaállítani” – persze angolul, mert úgy használom minden készülékem. Vártam. Vártam. Kész van. Mondom mi a franc, ennyire simán nem mehet. Hát nem, mert még az alkalmazások még ugye várattak magukra és nem is kevés…<figure class="tmblr-full">
+„néhány elemet nem sikerült visszaállítani” – persze angolul, mert úgy használom minden készülékem. Vártam. Vártam. Kész van. Mondom mi a franc, ennyire simán nem mehet. Hát nem, mert még az alkalmazások még ugye várattak magukra és nem is kevés…
 
-![image][6] </figure> 
+![image][6] 
 
 Azt a másfél órát, míg az összes alkalmazás letöltött és lefrissült, addig elfoglaltam magamat más offline tevékenységgel (Fallout 3).  
 Utána beállítottam az apróságokat (pl. régióformátum, töröltem a Brit billentyűzetet stb.) jött a második meglepetés: pár ominózus alkalmazáson kívül (konkrétan a Facebook <span style="text-decoration: line-through;">vacakjai</span> alkalmazásai és a Spotify) nem kellett semmibe bejelentkeznem, állítanom, variálnom.

@@ -57,6 +57,4 @@ Két napja még egy hiba miatt nem tudták kiadni a 15025-ös build-et telefonra
   * Microsoft Edge egyes esetekben nem fordul el vízszintes tájolásba. Ez esetben le kell zárni majd feloldani a képernyőt.
   * Egyes Insiderek egy hiba miatt nem képesek telepíteni ezt a build-et. A javítás már úton van, ám csak egy újabb build-ben lesz elérhető. Ha ez előfordul az eszköz újraindítása után újra kell frissítéseket keresni, majd lehetséges a telepítése a build-nek.
 
-<div>
-  Forrás: <a href="https://blogs.windows.com/windowsexperience/2017/02/02/announcing-windows-10-insider-preview-build-15025-mobile/#Fj0IwQzg4KIXA0gB.97">Microsoft Blog</a>
-</div>
+Forrás: [Microsoft Blog](https://blogs.windows.com/windowsexperience/2017/02/02/announcing-windows-10-insider-preview-build-15025-mobile/#Fj0IwQzg4KIXA0gB.97)

@@ -13,7 +13,7 @@ categories:
   - Uncategorized
 
 ---
-<figure class="tmblr-full">![image][1]</figure> 
+![image][1]
 
 A kecsesen vékony, hangtalan gép sajnos nem tudja meghazudtolni a fizika törvényeit: az éppen elégséges teljesítmény mellett (csirke)combmelegítőként is használható az Acer ultrabookja. Kinek éri megvenni mégis a 400 ezer forintos árával?
 
@@ -39,9 +39,9 @@ Mivel nincs aktív hűtése a gépnek, ezért észrevehetően melegszik és ha n
 A teljesítménnyel nem volt nagy gond, a PS gyors volt az alapműveleteknél, a Facebook jól muzsikált. Nagyobb problémái főként a GPU intenzív feladatoknál akadnak, mondanom sem kell, hogy a modern játékokat szerintem ki is hagyhatjuk a számításból – habár alacsony részletességgel tudunk játszható élményt faragni néhány régebbi játéknál. A 4K-t viszont vitte a Netflixxel probléma nélkül, ez volt az egyik dolog, amire ráfeküdtek a Kaby Lake processzorcsaládban.  
 A hangszórók sem tudják meghajlítani a teret, a kis test, alacsony hangminőséggel párosul: tud kellően hangos lenni, de a mélyhangokat csak néha lehet épphogy kivenni – szódával elmegy. Energiatakarékossági okokból ki-be kapcsol, hogyha nincsen használva és sajnos ez gyakran nagyon hangos pattanással jár, függően attól, hogy milyen kedve van.  
    
-A Microsoft Precision Touchpad driverének köszönhetően ez a gép is alulról karcolja az Apple által felállított mércét: a gesztusok jól működnek, a kétujjas görgetés pontos és kényelmes. Személyes véleményem szerint viszont a széles touchpad miatt nagyon furcsa az oldalirányú mozgatása a kurzornak, de ezt hosszútávú használattal biztos meg lehet szokni.<figure class="tmblr-full">
+A Microsoft Precision Touchpad driverének köszönhetően ez a gép is alulról karcolja az Apple által felállított mércét: a gesztusok jól működnek, a kétujjas görgetés pontos és kényelmes. Személyes véleményem szerint viszont a széles touchpad miatt nagyon furcsa az oldalirányú mozgatása a kurzornak, de ezt hosszútávú használattal biztos meg lehet szokni.
 
-![image][2] </figure> 
+![image][2] 
 
 Szoftveresen is kapunk két <strike>bloatware-t</strike> kiegészítőt: az Acer Quick Access fantázianevű képződmény, amiben egy lap konkrétan csak egy link a Windows 10-ben alapból benne lévő beállításhoz. Ezen kívül két extrát tud, az egyik a Color Intelligence, ami a külső fényviszonyokhoz képest állítja be a gammát és a színtelítettséget (szaturáció), 
 

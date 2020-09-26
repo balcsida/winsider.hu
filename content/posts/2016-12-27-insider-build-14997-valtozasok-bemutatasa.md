@@ -19,99 +19,56 @@ tags:
   - Winsider
 
 ---
-<figure class="tmblr-full">![][1]</figure> 
+![][1]
 
 Ahogy eddig  
-minden télen megszokhattuk a fejlesztők a Microsoft-nál kivették a szokásos  
-téli szabadságukat. Ezért ebben az évben újabb insider verzió nem is jelent meg  
-hivatalosan. Ám ahogy az lenni szokott, ilyenkor sem maradunk újdonság nélkül. Az  
-internetre kiszivárgott a 14997-es verzió.  
-Ez az egyik belső, mégpedig az  
-“rs\_onecore\_base” körről szivárgott ki. Nézzük meg milyen új funkciók várnak ránk a következő év  
-elején.
+minden télen megszokhattuk a fejlesztők a Microsoft-nál kivették a szokásos téli szabadságukat. Ezért ebben az évben újabb insider verzió nem is jelent meg hivatalosan. Ám ahogy az lenni szokott, ilyenkor sem maradunk újdonság nélkül. Az internetre kiszivárgott a 14997-es verzió. Ez az egyik belső, mégpedig az “rs\_onecore\_base” körről szivárgott ki. Nézzük meg milyen új funkciók várnak ránk a következő év elején.
 
 <!-- more -->
 
-Majdnem teljesen  
-újratervezték a telepítés utáni első inditáskori beállításvarázsló felhasználói  
-felületét.<figure class="tmblr-full">
+Majdnem teljesen újratervezték a telepítés utáni első inditáskori beállításvarázsló felhasználói felületét.
 
-![][2] </figure> <figure class="tmblr-full">![][3]</figure> <figure class="tmblr-full">![][4]</figure> 
+![][2] ![][3]![][4]
 
-Immáron (a  
-támogatott nyelveken, amik között a magyar sajnos még mindig nem szerepel) hangutasításokkal  
-is tudunk operálni, mert Cortana már ekkor elérhetővé válik. Ennek később lesz  
-jelentősége, amikor megjelenik a Microsoft otthoni központja, a Home Hub.
+Immáron (a támogatott nyelveken, amik között a magyar sajnos még mindig nem szerepel) hangutasításokkal is tudunk operálni, mert Cortana már ekkor elérhetővé válik. Ennek később lesz jelentősége, amikor megjelenik a Microsoft otthoni központja, a Home Hub.
 
-Ha mindent  
-beállítottunk és elfogadtunk, akkor végre használhatjuk a rendszert. A Start  
-Menü-t megnyitva a bal felső sarokban egy kávé ikon jelenik meg, ám sajnos nem  
-kattintható jelenleg.<figure class="tmblr-full">
+Ha mindent beállítottunk és elfogadtunk, akkor végre használhatjuk a rendszert. A Start Menü-t megnyitva a bal felső sarokban egy kávé ikon jelenik meg, ám sajnos nem kattintható jelenleg.
 
-![][5] </figure> 
+![][5] 
 
-A csempés  
-felületen megjelent a mappázási lehetőség, mint ahogy mobilon már  
-megszokhattuk, ám egyenlőre csak statikus képként működnek a mappában  
-elhelyezett csempék. Ha kinyitjuk, akkor működik az élő csempe funkció.
+A csempés felületen megjelent a mappázási lehetőség, mint ahogy mobilon már megszokhattuk, ám egyenlőre csak statikus képként működnek a mappában elhelyezett csempék. Ha kinyitjuk, akkor működik az élő csempe funkció.
 
-Beállításokba  
-belépve azonnal feltűnik, hogy az alkalmazások kezelését áthelyezték a rendszer  
-pont alól, ezentúl saját menüpontban laknak, ami a főképernyőről érhető el.<figure class="tmblr-full">
+Beállításokba belépve azonnal feltűnik, hogy az alkalmazások kezelését áthelyezték a rendszer pont alól, ezentúl saját menüpontban laknak, ami a főképernyőről érhető el.
 
-![][6] </figure> 
+![][6] 
 
-Egy fontos új  
-funkció jelent meg a Rendszer -> Kijelző pont alatt. Itt található ugyanis a  
-kék fény szűrő, ami esti számítógépezés hasznos kiegészítője.<figure class="tmblr-full">
+Egy fontos új funkció jelent meg a Rendszer -> Kijelző pont alatt. Itt található ugyanis a kék fény szűrő, ami esti számítógépezés hasznos kiegészítője.
 
-![][7] </figure> 
+![][7] 
 
-Szerencsére  
-gyorselérési ikont is kapott a műveletközpontban, így nem kell folyton a  
-beállításokba belépni, ha aktiválni akarja az ember. Állítható az eltávolított  
-kék fény mennyisége, valamint az időtartam, amíg használni szeretnénk.  
-Természetesen a napnyugta és a napkelte időpontja is megadható.
+Szerencsére gyorselérési ikont is kapott a műveletközpontban, így nem kell folyton a beállításokba belépni, ha aktiválni akarja az ember. Állítható az eltávolított kék fény mennyisége, valamint az időtartam, amíg használni szeretnénk. Természetesen a napnyugta és a napkelte időpontja is megadható.
 
-További újdonság,  
-hogy a Gépházban a súgó megjelenik a bal oldalon minden menüpontban.
+További újdonság, hogy a Gépházban a súgó megjelenik a bal oldalon minden menüpontban.
 
-Személyre szabás  
-alatt, megjelennek a korábban hasznát színek, valamint módosították a  
-beállítások megjelenését is.
+Személyre szabás alatt, megjelennek a korábban hasznát színek, valamint módosították a beállítások megjelenését is.
 
-Megjelent a  
-témázási lehetőség. A hátteret, a használt színt, a jelzőhangokat és a kurzor  
-megejelenését módosíthatjuk. Ezek később a Windows Store-ból lesznek  
-elérhetőek.<figure class="tmblr-full">
+Megjelent a témázási lehetőség. A hátteret, a használt színt, a jelzőhangokat és a kurzor megejelenését módosíthatjuk. Ezek később a Windows Store-ból lesznek elérhetőek.
 
-![][8] </figure> 
+![][8] 
 
-Új funkciók  
-jelentek meg az Egde böngészőben is. A vezérlősávon új gombok találhatóak,  
-amikkel eltehetünk későbbre honlapokat, amikre nincs szükségünk jelenleg, majd  
-később vissza tudjuk hozni az előtérbe őket.<figure class="tmblr-full">
+Új funkciók jelentek meg az Egde böngészőben is. A vezérlősávon új gombok találhatóak, amikkel eltehetünk későbbre honlapokat, amikre nincs szükségünk jelenleg, majd később vissza tudjuk hozni az előtérbe őket.
 
-![][9] </figure> 
+![][9] 
 
-Az előnézet  
-elérése megváltozott, egy gombbal tudjuk megnézni, az összes honlap képét.  
-Valamint a korábban pletykált új megosztási felületet aktiválták.<figure class="tmblr-full">
+Az előnézet elérése megváltozott, egy gombbal tudjuk megnézni, az összes honlap képét. Valamint a korábban pletykált új megosztási felületet aktiválták.
 
-![][10] </figure> <figure class="tmblr-full">![][11]</figure> 
+![][10] ![][11]
 
-A Windows  
-Defender UWA-ként tér vissza, így egy újabb rendszer app csatlakozik a  
-Modern alkalmazások közé.
+A Windows Defender UWA-ként tér vissza, így egy újabb rendszer app csatlakozik a Modern alkalmazások közé.
 
-Még egy apró  
-módosítást említenénk meg, ez pedig az, hogy Cortana hagutasítása billentyű  
-kombinációt kapott, a Windows és C gomb egyszerre történő megnyomása után már  
-beszélhetünk is hozzá.
+Még egy apró módosítást említenénk meg, ez pedig az, hogy Cortana hagutasítása billentyű kombinációt kapott, a Windows és C gomb egyszerre történő megnyomása után már beszélhetünk is hozzá.
 
-Ezek alapján  
-jövőre igen izgalmas újdonságokat kapunk, amik kellemesebbé teszik a számítógép  
-használatát.
+Ezek alapján jövőre igen izgalmas újdonságokat kapunk, amik kellemesebbé teszik a számítógép használatát.
 
 Forrás: Windows Central
 

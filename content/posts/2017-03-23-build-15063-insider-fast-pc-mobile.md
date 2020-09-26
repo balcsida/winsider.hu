@@ -15,7 +15,7 @@ tags:
   - windows 10 mobile
 
 ---
-<img loading="lazy" class="aligncenter wp-image-298 size-full" src="https://winsider.hu/wp-content/uploads/2017/03/build15063.jpg" alt="" width="459" height="405" srcset="https://winsider.hu/wp-content/uploads/2017/03/build15063.jpg 459w, https://winsider.hu/wp-content/uploads/2017/03/build15063-300x265.jpg 300w" sizes="(max-width: 459px) 100vw, 459px" />
+![](/wp-content/uploads/2017/03/build15063.jpg)
 
 A hét jól indult, hiszen hétfőről keddre virradó éjszaka elérhetővé tették a címben említett előzetest. Ez egy várva várt frissítés (főleg mobilos szemszögből) hiszen egy nagyon idegesítő hibát is javított. Megjegyzendő, hogy PC-n (ismét) eltűnt a vízjel a jobb alsó sarokkból valamit, az &#8220;időzített bomba&#8221; (licensz lejárata) is, ahogy a fenti képen látható, ami erősen utalhat rá, hogy ez lesz az RTM verzió. (Ezt tovább erősítheti az, hogy egyes Release Preview körön lévő emberek is megkapták ezt a verziót. Jelenleg ezt sem megerősíteni sem cáfolni nem tudom, mert nem rendelkezem RP körön lévő eszközzel. Kommentekben várjuk a tapasztalataitokat ezzel kapcsolatban.) Lássuk mit kapunk ebben a buildben:
 

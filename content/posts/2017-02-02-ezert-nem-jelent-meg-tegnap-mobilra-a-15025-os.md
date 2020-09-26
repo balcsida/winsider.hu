@@ -18,19 +18,11 @@ tags:
 ---
 A Microsoft egy tovább frissítést akadályozó hiba miatt elhalasztotta a 15025-ös build kiadását a mobil rendszerére, ezt Dona Sarkar jelentette be a Twitter csatornáján.
 
-<blockquote class="twitter-tweet">
-  <p dir="ltr" lang="en">
-    We are investigating a bug that’s blocking the Mobile build <a href="https://twitter.com/hashtag/WindowsInsiders?src=hash">#WindowsInsiders</a> for the bug bash. More details as we know more.
-  </p>
-  
-  <div>
-    — Dona ✈️#NXTA (@donasarkar)
-  </div>
-  
-  <p>
-    <a href="https://twitter.com/donasarkar/status/826885259845304320">2017. február 1.</a>
-  </p>
-</blockquote>
+> We are investigating a bug that’s blocking the Mobile build [#WindowsInsiders](https://twitter.com/hashtag/WindowsInsiders?src=hash) for the bug bash. More details as we know more.
+> 
+> — Dona ✈️#NXTA (@donasarkar)
+> 
+> [2017\. február 1.](https://twitter.com/donasarkar/status/826885259845304320)
 
 Már korábban is többször előfordult, hogy nem sikerült az újabb build-ek letöltése és telepítése, ami az Insider-eket arra kényszerítette, hogy Windows Device Recovery Tool-al egy korábbi verzióra álljanak vissza, majd onnan frissítsenek a legújabb Fast Ring-es build-re. Reméljük, hogy gyorsan megtalálják a hiba forrását, és a februári bug bash Windows 10 Mobile-on is elindulhat.
 

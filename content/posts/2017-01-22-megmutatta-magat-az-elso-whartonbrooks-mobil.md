@@ -24,18 +24,10 @@ A Twitter-re felkerült egy
 kép, ami ezt a telefont mutatja, igaz becsomagolva. A kép aláírása szerint ezek a végleges minták és már úton  
 vannak a tesztlaborba. Reméljük minden rendben fog menni, és hamarosan a boltok polcain is találkozhatunk velük.
 
-<blockquote class="twitter-tweet">
-  <p dir="ltr" lang="en">
-    The final samples are on their way from Shenzhen. Fingers crossed that they are ready for the testing labs. Should we name them? <a href="https://t.co/wyNOK8JnqZ">pic.twitter.com/wyNOK8JnqZ</a>
-  </p>
-  
-  <div>
-    — Cerulean Mobile (@ceruleanmobile)
-  </div>
-  
-  <p>
-    <a href="https://twitter.com/ceruleanmobile/status/823019627240443904">2017. január 22.</a>
-  </p>
-</blockquote>
+> The final samples are on their way from Shenzhen. Fingers crossed that they are ready for the testing labs. Should we name them? [pic.twitter.com/wyNOK8JnqZ](https://t.co/wyNOK8JnqZ)
+> 
+> — Cerulean Mobile (@ceruleanmobile)
+> 
+> [2017\. január 22.](https://twitter.com/ceruleanmobile/status/823019627240443904)
 
 Forrás: <https://mspoweruser.com/whartonbrookss-offers-a-peek-of-their-windows-10-mobile-handset-for-the-first-time/>

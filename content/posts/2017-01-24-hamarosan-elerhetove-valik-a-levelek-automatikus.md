@@ -20,10 +20,10 @@ tags:
   - windows10
 
 ---
-<span style="color: #000000; font-family: Calibri; font-size: medium;">Androidon és iOS-en már a kezdetek óta elérhető a levelek  szűrése az Outlook alkalmazásban, így külön helyen mutatja a szerinte fontos és kevésbé fontos leveleket (természetesen mi is beállíthatjuk a számunkra fontos leveleket). Ez a funkció azonban nem minden platformon és nem minden alkalmazásban érhető el jelenleg.</span>
+Androidon és iOS-en már a kezdetek óta elérhető a levelek  szűrése az Outlook alkalmazásban, így külön helyen mutatja a szerinte fontos és kevésbé fontos leveleket (természetesen mi is beállíthatjuk a számunkra fontos leveleket). Ez a funkció azonban nem minden platformon és nem minden alkalmazásban érhető el jelenleg.
 
-<span style="color: #000000; font-family: Calibri; font-size: medium;">Korábban már megerősítést kaptunk róla, hogy a fejlesztők a Microsoft-nál majd pótolni fogják a hiányosságukat. Most viszont a mikorról is tájékoztatást kaptunk. Ezek szerint az asztali Windows 10-es Mail alkalmazásban és az Outlook.com webes felületen 2017 februárjától, a mobilosban pedig 2017 áprilisától fog elérhetővé válni ez a funkció.</span><figure class="tmblr-full">
+Korábban már megerősítést kaptunk róla, hogy a fejlesztők a Microsoft-nál majd pótolni fogják a hiányosságukat. Most viszont a mikorról is tájékoztatást kaptunk. Ezek szerint az asztali Windows 10-es Mail alkalmazásban és az Outlook.com webes felületen 2017 februárjától, a mobilosban pedig 2017 áprilisától fog elérhetővé válni ez a funkció.
 
-<img class="aligncenter" src="https://68.media.tumblr.com/df4a14ed5a53eadb7f83f44e63ed7691/tumblr_inline_okafbspA6F1uz1ind_540.png" /> </figure> 
+![](https://68.media.tumblr.com/df4a14ed5a53eadb7f83f44e63ed7691/tumblr_inline_okafbspA6F1uz1ind_540.png)
 
-<span style="color: #000000; font-family: Calibri; font-size: medium;">Forrás: <a href="https://mspoweruser.com/microsoft-will-make-focused-inbox-available-windows-10-users-february-april-mobile-users/">MSPoweruser</a></span>
+Forrás: [MSPoweruser](https://mspoweruser.com/microsoft-will-make-focused-inbox-available-windows-10-users-february-april-mobile-users/)

@@ -17,7 +17,7 @@ tags:
 ---
 Szemfüles Windows felhasználók biztosan észrevették már, hogy a Microsoft driverei igencsak régi dátummal rendelkeznek. Egészen pontosan 2006.06.21. a dátumozás rajtuk.
 
-<img loading="lazy" class="aligncenter wp-image-211 size-medium" src="https://winsider.hu/wp-content/uploads/2017/02/driver-262x300.png" alt="Képernyőfotó egy Microsoft-os driverről, amin látszódik az ominózus, 2006-os dátum" width="262" height="300" srcset="https://winsider.hu/wp-content/uploads/2017/02/driver-262x300.png 262w, https://winsider.hu/wp-content/uploads/2017/02/driver.png 398w" sizes="(max-width: 262px) 100vw, 262px" /> 
+![Képernyőfotó egy Microsoft-os driverről, amin látszódik az ominózus, 2006-os dátum](/wp-content/uploads/2017/02/driver-262x300.png)
 
 Bár a verziószám időről időre növekszik, de a dátum változatlan. Még akkor is, ha azok olyan funkciókat valósítanak meg, amik **garantáltan** nem léteztek még abban az évben. Talán a Microsoft mérnökei majd egy évtizeddel előre fejlesztenek? Nem! Ennek oka egészen más.
 
@@ -40,4 +40,4 @@ Remélhetőleg ezzel sikerült megnyugtatóan megválaszolni egy érdekes kérd�
 
 > Ez egy fantasztikus példája annak, hogy néha az őrültségnek és jelentéktelennek tűnő dolgok milyen hasznosak, és okkal léteznek.
 
-Forrás: <a href="https://blogs.msdn.microsoft.com/oldnewthing/20170208-00/?p=95395" target="_blank">The Old New Things Blog</a>
+Forrás: [The Old New Things Blog](https://blogs.msdn.microsoft.com/oldnewthing/20170208-00/?p=95395)

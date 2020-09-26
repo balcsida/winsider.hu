@@ -16,13 +16,8 @@ tags:
 
 ---
 A cikk elején el kell  
-mondanom, hogy szerintem az ACER-nek sikerült egy igazán jó hibrid gépet összehoznia,  
-azonban nem minden megoldás tökéletes. A cikk az első tapasztalataimat, véleményimet tartalmazza! Az első  
-szembetűnő dolog az a gép vékonysága, amely majdnem 1.6 centiméter (dokkolóval  
-együtt). Nem mondanám nehéznek a tabletet, de kicsit megterhelő az egy és egy  
-negyed kilónyi gépet hosszabb ideig kézben tartani. Billentyűzete puha  
-műanyaggal/gumival/szövettel borított, ami szép és igazán elegáns, de nem tűnik  
-tartósnak sajnos.    
+mondanom, hogy szerintem az ACER-nek sikerült egy igazán jó hibrid gépet összehoznia, azonban nem minden megoldás tökéletes. A cikk az első tapasztalataimat, véleményimet tartalmazza! Az első  
+szembetűnő dolog az a gép vékonysága, amely majdnem 1.6 centiméter (dokkolóval együtt). Nem mondanám nehéznek a tabletet, de kicsit megterhelő az egy és egy negyed kilónyi gépet hosszabb ideig kézben tartani. Billentyűzete puha műanyaggal/gumival/szövettel borított, ami szép és igazán elegáns, de nem tűnik tartósnak sajnos.    
 
 <!-- more -->
 
@@ -30,47 +25,18 @@ tartósnak sajnos.    
 
 ![][1] 
 
-Több változatban is kapható az Alpha 12, hozzám egy i5-ös  
-(i5-6200U), 2.3 GHz-en pörgő kétmagos processzorral ellátott gép jutott el. Ami  
-8 Gb alap memóriát, 256 Gb-os SSD-t kapott. Vízhűtéssel tartja a gyártó hidegen  
-az eszközt, így teljesen hangtalanul tud működni. Optikai meghajtó értelem  
-szerűen nincsen, viszont egy SD kártya olvasót kapunk, egy 3.1-es és egy Type-c  
-USB-t a jack benenet és töltőcsatlakozó mellé.
+Több változatban is kapható az Alpha 12, hozzám egy i5-ös (i5-6200U), 2.3 GHz-en pörgő kétmagos processzorral ellátott gép jutott el. Ami 8 Gb alap memóriát, 256 Gb-os SSD-t kapott. Vízhűtéssel tartja a gyártó hidegen az eszközt, így teljesen hangtalanul tud működni. Optikai meghajtó értelemszerűen nincsen, viszont egy SD kártya olvasót kapunk, egy 3.1-es és egy Type-c USB-t a jack benenet és töltőcsatlakozó mellé.
 
-Kijelzője 12 colos, LCD-IPS LED háttérvilágítással. QHD  
-felbontású multi touch érintőképernyő. Betekintési szögeivel nincsen gond, a  
-színek nem torzulnak, 180 fokban betekinthető. A fényerőt egy környezeti fény  
-érzékelő állítja nekünk.
+Kijelzője 12 colos, LCD-IPS LED háttérvilágítással. QHD felbontású multi touch érintőképernyő. Betekintési szögeivel nincsen gond, a színek nem torzulnak, 180 fokban betekinthető. A fényerőt egy környezeti fény érzékelő állítja nekünk.
 
-Kapunk beépített mikrofont és két darab hangszórót, amelyek nem  
-szólnak túl szépen, nincsenek mély hangok, ami meglepő kicsit. Ezek mellett egy  
-2 megapixeles webkamerát és egy 5 megapixeles hátlapi kamerát kapunk, elég szép  
-képet adnak, Skype-hoz tökéletesek! Ujjlenyomatolvasó nincsen, ahogy írisz  
-szkenner sem, így Windows Hello nem működik majd.
+Kapunk beépített mikrofont és két darab hangszórót, amelyek nem szólnak túl szépen, nincsenek mély hangok, ami meglepő kicsit. Ezek mellett egy 2 megapixeles webkamerát és egy 5 megapixeles hátlapi kamerát kapunk, elég szép képet adnak, Skype-hoz tökéletesek! Ujjlenyomatolvasó nincsen, ahogy írisz szkenner sem, így Windows Hello nem működik majd.
 
 Tollat  
-tartalmaz a csomagolás, amely minden, HP Spectre cikkben leírtat el tud  
-végezni. A toll gombjai azonban nem állnak túl stabilan a helyükön, de ez  
-elhanyagolható probléma szerintem. A tollat a billentyűzet aljába rögzített kis  
-fülbe tudjuk beletuszkolni, nagyobb erőhatással. Ez a kis fül nem tűnik túl  
-stabilnak, elég könnyen le lehet törni a helyéről egy óvatlan mozdulattal. Bár,  
-ha vigyázunk rá, akkor nem kell félnünk, hogy letörne. 
+tartalmaz a csomagolás, amely minden, HP Spectre cikkben leírtat el tud végezni. A toll gombjai azonban nem állnak túl stabilan a helyükön, de ez elhanyagolható probléma szerintem. A tollat a billentyűzet aljába rögzített kis fülbe tudjuk beletuszkolni, nagyobb erőhatással. Ez a kis fül nem tűnik túl stabilnak, elég könnyen le lehet törni a helyéről egy óvatlan mozdulattal. Bár, ha vigyázunk rá, akkor nem kell félnünk, hogy letörne. 
 
-A billentyűzet eltávolítható, nagyon erősen tartja néhány  
-mágnes a tablethez használat közben (erről egy videót találsz az instagramunkon 😉 ). Puha műanyag vagy gumi, akár gumírozott  
-textil borítást kapott, illetve ragasztott designt a széleken, ami szintén nem  
-tűnik túl biztatónak, de ki tudja, lehet, hogy tartósabb, mint gondolom, sajnos  
-egy nap alatt nem tudtam megállapítani a tartósságát. Egyébként nagyon hasonlít  
-a Surface book billentyűzetéhez, amelynek szintén hasonló borítása van.
+A billentyűzet eltávolítható, nagyon erősen tartja néhány mágnes a tablethez használat közben (erről egy videót találsz az instagramunkon 😉 ). Puha műanyag vagy gumi, akár gumírozott textil borítást kapott, illetve ragasztott designt a széleken, ami szintén nem tűnik túl biztatónak, de ki tudja, lehet, hogy tartósabb, mint gondolom, sajnos egy nap alatt nem tudtam megállapítani a tartósságát. Egyébként nagyon hasonlít a Surface book billentyűzetéhez, amelynek szintén hasonló borítása van.
 
-Designról is kicsit. A gép teteje szálcsiszolt fém, ami  
-igazán szép. Az egész gép kerete egy fémes hatású festett műanyag, amely fekete  
-színben átnyúlik az előlapra is így körülvéve a kijelző üvegét. Nem az én  
-világon ez a fajta design megoldás, de hát ízlések és pofonok. Viszont plusz  
-pont, hogy nem nagyon vastag a káva. A kihajtható láb (amely az asztalnál  
-érintkező résznél gumiborítást kapott) elegáns, légiessé teszi a designt. A  
-billentyűzet az aggodalmaim ellenére szép, könnyű és merev. Kellemes rajta a  
-gépelés, akár sötétben is a háttérvilágításnak köszönhetően. 
+Designról is kicsit. A gép teteje szálcsiszolt fém, ami igazán szép. Az egész gép kerete egy fémes hatású festett műanyag, amely fekete színben átnyúlik az előlapra is így körülvéve a kijelző üvegét. Nem az én világon ez a fajta design megoldás, de hát ízlések és pofonok. Viszont plusz pont, hogy nem nagyon vastag a káva. A kihajtható láb (amely az asztalnál érintkező résznél gumiborítást kapott) elegáns, légiessé teszi a designt. A billentyűzet az aggodalmaim ellenére szép, könnyű és merev. Kellemes rajta a gépelés, akár sötétben is a háttérvilágításnak köszönhetően. 
 
 A gépről egy kicsit részletesebb, több tapasztalatot tartalmazó leírása a jövőben várható!
 
